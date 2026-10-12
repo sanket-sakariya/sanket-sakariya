@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Sanket Sakariya 👋
-### 🚀 Full-Stack Engineer & Automation Specialist | Mobile & Web Apps
+### 🚀 Backend, Full-Stack & DevOps Engineer | Mobile & Web Apps
 
 <p align="center">
   <strong>I build fast, reliable, client-ready digital products that automate workflows and solve real business problems.</strong>
@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanket-sakariya)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanketsakariya2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanket-sakariya)
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanket-sakariya.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://sanket-sakariya.netlify.app/)
 
 </div>
 
@@ -94,7 +94,7 @@ Whether you need a full mobile application from scratch, a customized web platfo
         <li><b>Tech:</b> HTML5, CSS3, JavaScript, Bootstrap 5.</li>
       </ul>
       <p align="center">
-        <a href="https://sanket-sakariya.github.io/Portfolio/"><b>Live Website</b></a> | <a href="https://github.com/sanket-sakariya/Portfolio"><b>Codebase →</b></a>
+        <a href="https://sanket-sakariya.netlify.app/"><b>Live Website</b></a> | <a href="https://github.com/sanket-sakariya/Portfolio"><b>Codebase →</b></a>
       </p>
     </td>
   </tr>
