@@ -86,15 +86,15 @@ Whether you need a full mobile application from scratch, a customized web platfo
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🌐 Interactive Portfolio</h3>
-      <p align="center"><b>Responsive Web Portfolio & Client Showcase</b></p>
+      <h3 align="center">💇 Salon & Parlour Management</h3>
+      <p align="center"><b>Full-Stack Booking & Operations Platform</b></p>
       <ul>
-        <li><b>Problem:</b> Need an instant, clean, zero-delay landing page to show clients live work samples and credentials.</li>
-        <li><b>Solution:</b> Single-page responsive portfolio hosted on GitHub Pages with dark mode, interactive showcases, and smooth navigation.</li>
-        <li><b>Tech:</b> HTML5, CSS3, JavaScript, Bootstrap 5.</li>
+        <li><b>Problem:</b> Salons and service businesses suffer from double-bookings, manual paper scheduling, and inefficient staff allocation.</li>
+        <li><b>Solution:</b> Full-stack platform featuring automated appointment booking, staff assignment, service catalog management, and JWT authentication.</li>
+        <li><b>Tech:</b> FastAPI, Python, PostgreSQL, Docker, React, Vite.</li>
       </ul>
       <p align="center">
-        <a href="https://sanket-sakariya.netlify.app/"><b>Live Website</b></a> | <a href="https://github.com/sanket-sakariya/Portfolio"><b>Codebase →</b></a>
+        <a href="https://github.com/sanket-sakariya/Beauty-parlour-management-service"><b>View Repository & Case Study →</b></a>
       </p>
     </td>
   </tr>
